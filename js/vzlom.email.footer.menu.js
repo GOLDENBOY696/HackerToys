@@ -1,0 +1,1 @@
+﻿document.write("<style>.omega-contact {color: #181818;}</style>");

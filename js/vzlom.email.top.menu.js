@@ -1,0 +1,1 @@
+﻿document.write("<ul><li><a href='./vzlom-pochta-mailru.html'>Mail.ru</a></li><li><a href='./vzlom-pochta-yandex.html'>Yandex</a></li><li><a href='./vzlom-pochta-rambler.html'>Rambler</a></li><li><a href='./vzlom-pochta-yahoo.html'>Yahoo Mail</a></li><li><a href='./vzlom-pochta-gmail.html'>Gmail</a></li><li><a href='./vzlom-pochta-hotmail.html'>Hotmail</a></li></ul>");
